@@ -1,1 +1,1 @@
-# Spiking-transformer-tiny-imagemet
+# Spiking-transformer-tiny-imagenet
